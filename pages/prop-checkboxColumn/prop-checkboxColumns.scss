@@ -1,0 +1,18 @@
+.prop-checkboxColumns__large-comp {
+  border: 1px solid #fafafa;
+  padding: 6px;
+  border-radius: 4px;
+  background: #3a4d50;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out, background 0.3s ease-in-out;
+}
+
+.prop-checkboxColumns__large-comp:hover {
+  opacity: 0.87;
+  background: #7a4d50;
+}
+
+.prop-checkboxColumns__large-comp:active {
+  opacity: 0.6;
+  background: #7a4d50;
+}
