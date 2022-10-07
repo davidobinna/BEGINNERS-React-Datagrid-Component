@@ -1,5 +1,5 @@
 ## Getting Started
-
+Run npm install axios to work with ajax, contact me for API scripta 
 Make sure you run `npm i` first and then you can run the development server:
 
 ```bash
